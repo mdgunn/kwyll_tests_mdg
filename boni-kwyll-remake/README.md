@@ -1,15 +1,12 @@
 # Boni Kwyll Remake
 
-Partial remake (possibly first level or 2 only) of the game "Boni in Bat Hell" by SteveTyson.
+Building a partial remake (possibly first level or 2 only) of the MAPGD built game "Boni in Bat Hell"(Boni) by SteveTyson that may help to understand how to build a similar platformer in Kwyll. BIBH is available on itch.io allowing easy access to a game we can do some rudimentary comparison of performance and feel of the MAPG version versus Kwyll. Boni available here: https://stevetyson.itch.io/boni. Steve has been consulted on this use of Boni as a learning example.
 
-The aim was to compare Kwyll's beta against a MPAGD game to see how Kwyll is performing. Kwyll had not been heavily optimised at this time but it would give a measure of where things were at. 
+The aim is not to be an exact replica but instead to examine how to keep Kwyll quick while performing similar basic mechanics in as rudementary a form as is necessary to maintain speed (because Kwyll has not yet undergone significant optimisation). 
 
-Boni in Bat Hell (BIBH) was chosen because Steve had mentioned it in the Kwyll discord and it seemed like a nice modern platformer that it would be practical to replicate (at least the first level or 2).
+ZEsarUX(12.0) running on PC is the usual target for running 'feel' comparisons.
 
-The aim was to reproduce something similar that could be executed back to back with BTBH to make some judgements about if Kwyll was feeling similarly fast enough, or requiring further work or certain techniques to produce a similarly snappy game in this different engine.
-
-Perhaps later we could try to add in some sort of timing mechanimsms but initially I'm interested in the basic feel and any frustrations in collisions, jumps etc while excersising the game.}
-
-
-- [Boni in Bat Hell on Itch.io](https://stevetyson.itch.io/boni)
+- [MAPGD version of Boni in Bat Hell on Itch.io](https://stevetyson.itch.io/boni)
 - [SteveTyson Games on Itch.io](https://itch.io/profile/stevetyson)
+- [Github Source of this and other test files - if/when they are added](https://github.com/mdgunn/kwyll_tests_mdg/blob/main/README.md)
+
