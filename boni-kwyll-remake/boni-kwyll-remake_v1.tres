@@ -1,4 +1,4 @@
-[gd_resource type="Resource" script_class="IB_GT_GameData" load_steps=322 format=3]
+[gd_resource type="Resource" script_class="IB_GT_GameData" load_steps=320 format=3]
 
 [ext_resource type="Script" path="res://brush.gd" id="1"]
 [ext_resource type="Script" path="res://object_ref.gd" id="2"]
@@ -362,6 +362,27 @@ properties = {
 position = Vector2(635.657, 55.6576)
 node_size = Vector2(0, 0)
 
+[sub_resource type="Resource" id="Resource_5mp6o"]
+script = ExtResource("5")
+id = "04fda23f-c8f4-4aef-88fa-6df89523c14e"
+type = "3cc3fe06-4e80-4d64-8794-f82ce6655857"
+properties = {
+"const": 1,
+"variable": 1
+}
+position = Vector2(1960, 3560)
+node_size = Vector2(0, 0)
+
+[sub_resource type="Resource" id="Resource_3i305"]
+script = ExtResource("5")
+id = "1361e01a-b21f-47f9-b751-8082cf560a02"
+type = "0a7dba4a-4b4c-4ff5-a123-a25221ed370e"
+properties = {
+"variable": 3
+}
+position = Vector2(780, 3240)
+node_size = Vector2(0, 0)
+
 [sub_resource type="Resource" id="Resource_gfyph"]
 script = ExtResource("5")
 id = "228e66a8-a841-46ed-8601-6f70a4b4efe9"
@@ -394,6 +415,37 @@ properties = {
 position = Vector2(1475.66, 1955.66)
 node_size = Vector2(0, 0)
 
+[sub_resource type="Resource" id="Resource_npfwc"]
+script = ExtResource("5")
+id = "361f6f4d-45ae-4dd8-b8c7-aebc45939665"
+type = "7b7dac05-cfcd-4b36-94de-7461bbda7e24"
+properties = {
+"mode": false
+}
+position = Vector2(1160, 3680)
+node_size = Vector2(0, 0)
+
+[sub_resource type="Resource" id="Resource_bo1bg"]
+script = ExtResource("5")
+id = "3cb06213-8e04-4d8b-9884-91f5d46ddc0f"
+type = "3fcab087-5e70-4d3f-8505-93631e535d51"
+properties = {
+"value": 0
+}
+position = Vector2(840, 3080)
+node_size = Vector2(0, 0)
+
+[sub_resource type="Resource" id="Resource_xyr61"]
+script = ExtResource("5")
+id = "45275dfc-759f-4e53-971b-1c20d37e136f"
+type = "0e45e2d8-c81e-4b2d-bdee-f1d7195290b2"
+properties = {
+"const_opb": 0,
+"operator": 1
+}
+position = Vector2(1240, 3020)
+node_size = Vector2(0, 0)
+
 [sub_resource type="Resource" id="Resource_6boau"]
 script = ExtResource("5")
 id = "4b088a7d-5fa9-4118-b29d-24027228d260"
@@ -402,6 +454,14 @@ properties = {
 "variable": 0
 }
 position = Vector2(1155.66, 595.657)
+node_size = Vector2(0, 0)
+
+[sub_resource type="Resource" id="Resource_b0v5g"]
+script = ExtResource("5")
+id = "59b4ad51-eeed-4758-8e4a-a43832eb299a"
+type = "8d886b8c-cfba-40e8-bc9f-da10cfd08542"
+properties = {}
+position = Vector2(740, 3560)
 node_size = Vector2(0, 0)
 
 [sub_resource type="Resource" id="Resource_md02c"]
@@ -413,6 +473,28 @@ properties = {
 "variable": 1
 }
 position = Vector2(2475.66, 1455.66)
+node_size = Vector2(0, 0)
+
+[sub_resource type="Resource" id="Resource_scoax"]
+script = ExtResource("5")
+id = "65bf5486-b1d6-45f2-9202-dafa5c47834a"
+type = "23a6c71a-a26f-401e-8e26-8854647e64ff"
+properties = {
+"max": 10,
+"min": -10
+}
+position = Vector2(1600, 2840)
+node_size = Vector2(0, 0)
+
+[sub_resource type="Resource" id="Resource_lydmr"]
+script = ExtResource("5")
+id = "69ed47b0-ddb5-42c7-9c89-31d767af9c39"
+type = "de542fd9-0aa0-4c8e-ac6e-79d6c7e2433b"
+properties = {
+"const": 1,
+"variable": 2
+}
+position = Vector2(1600, 2560)
 node_size = Vector2(0, 0)
 
 [sub_resource type="Resource" id="Resource_ou3qe"]
@@ -514,6 +596,37 @@ properties = {
 position = Vector2(695.657, 1835.66)
 node_size = Vector2(0, 0)
 
+[sub_resource type="Resource" id="Resource_p5f3x"]
+script = ExtResource("5")
+id = "bec45aa1-5fd0-4499-9d0b-f2c486bf6f6b"
+type = "3fcab087-5e70-4d3f-8505-93631e535d51"
+properties = {
+"value": 2
+}
+position = Vector2(800, 3820)
+node_size = Vector2(0, 0)
+
+[sub_resource type="Resource" id="Resource_eclpy"]
+script = ExtResource("5")
+id = "c166eebc-5ae0-4d03-aaf6-3727f31680de"
+type = "ea060114-986d-40b8-8197-fd1408d3d6d3"
+properties = {
+"order": 0,
+"skip": 0
+}
+position = Vector2(720, 2560)
+node_size = Vector2(0, 0)
+
+[sub_resource type="Resource" id="Resource_g0ul7"]
+script = ExtResource("5")
+id = "cc02886b-11ed-4d21-a859-72ea8071423c"
+type = "0a7dba4a-4b4c-4ff5-a123-a25221ed370e"
+properties = {
+"variable": 2
+}
+position = Vector2(1040, 2840)
+node_size = Vector2(0, 0)
+
 [sub_resource type="Resource" id="Resource_ty74h"]
 script = ExtResource("5")
 id = "d6e573df-3ed7-4e65-a9f9-bfff5d0c04b5"
@@ -544,6 +657,17 @@ properties = {
 position = Vector2(1115.66, 1775.66)
 node_size = Vector2(0, 0)
 
+[sub_resource type="Resource" id="Resource_dnof7"]
+script = ExtResource("5")
+id = "def0c298-0277-4268-9eb4-244db66e6774"
+type = "3cc3fe06-4e80-4d64-8794-f82ce6655857"
+properties = {
+"const": 0,
+"variable": 2
+}
+position = Vector2(2040, 2560)
+node_size = Vector2(0, 0)
+
 [sub_resource type="Resource" id="Resource_skmt5"]
 script = ExtResource("5")
 id = "e369bf1a-ac5c-4fd0-b9c8-c7965352fc0f"
@@ -566,6 +690,17 @@ properties = {
 position = Vector2(1175.66, 315.657)
 node_size = Vector2(0, 0)
 
+[sub_resource type="Resource" id="Resource_siosv"]
+script = ExtResource("5")
+id = "e85052f4-de39-42d0-a449-ab752c22e1b2"
+type = "9700ab27-9c03-4439-9aef-c7556a9f204e"
+properties = {
+"comparator": 0,
+"const_opb": 2
+}
+position = Vector2(1400, 3560)
+node_size = Vector2(0, 0)
+
 [sub_resource type="Resource" id="Resource_ry8un"]
 script = ExtResource("5")
 id = "eb92523b-e1d2-4d41-a499-91aed16ec801"
@@ -579,141 +714,6 @@ properties = {
 "up": 1
 }
 position = Vector2(635.657, 355.658)
-node_size = Vector2(0, 0)
-
-[sub_resource type="Resource" id="Resource_eclpy"]
-script = ExtResource("5")
-id = "c166eebc-5ae0-4d03-aaf6-3727f31680de"
-type = "ea060114-986d-40b8-8197-fd1408d3d6d3"
-properties = {
-"order": 0,
-"skip": 0
-}
-position = Vector2(720, 2560)
-node_size = Vector2(0, 0)
-
-[sub_resource type="Resource" id="Resource_g0ul7"]
-script = ExtResource("5")
-id = "cc02886b-11ed-4d21-a859-72ea8071423c"
-type = "0a7dba4a-4b4c-4ff5-a123-a25221ed370e"
-properties = {
-"variable": 2
-}
-position = Vector2(1040, 2840)
-node_size = Vector2(0, 0)
-
-[sub_resource type="Resource" id="Resource_xyr61"]
-script = ExtResource("5")
-id = "45275dfc-759f-4e53-971b-1c20d37e136f"
-type = "0e45e2d8-c81e-4b2d-bdee-f1d7195290b2"
-properties = {
-"const_opb": 0,
-"operator": 1
-}
-position = Vector2(1240, 3020)
-node_size = Vector2(0, 0)
-
-[sub_resource type="Resource" id="Resource_bo1bg"]
-script = ExtResource("5")
-id = "3cb06213-8e04-4d8b-9884-91f5d46ddc0f"
-type = "3fcab087-5e70-4d3f-8505-93631e535d51"
-properties = {
-"value": 0
-}
-position = Vector2(840, 3080)
-node_size = Vector2(0, 0)
-
-[sub_resource type="Resource" id="Resource_3i305"]
-script = ExtResource("5")
-id = "1361e01a-b21f-47f9-b751-8082cf560a02"
-type = "0a7dba4a-4b4c-4ff5-a123-a25221ed370e"
-properties = {
-"variable": 3
-}
-position = Vector2(780, 3240)
-node_size = Vector2(0, 0)
-
-[sub_resource type="Resource" id="Resource_lydmr"]
-script = ExtResource("5")
-id = "69ed47b0-ddb5-42c7-9c89-31d767af9c39"
-type = "de542fd9-0aa0-4c8e-ac6e-79d6c7e2433b"
-properties = {
-"const": 1,
-"variable": 2
-}
-position = Vector2(1600, 2560)
-node_size = Vector2(0, 0)
-
-[sub_resource type="Resource" id="Resource_scoax"]
-script = ExtResource("5")
-id = "65bf5486-b1d6-45f2-9202-dafa5c47834a"
-type = "23a6c71a-a26f-401e-8e26-8854647e64ff"
-properties = {
-"max": 10,
-"min": -10
-}
-position = Vector2(1600, 2840)
-node_size = Vector2(0, 0)
-
-[sub_resource type="Resource" id="Resource_dnof7"]
-script = ExtResource("5")
-id = "def0c298-0277-4268-9eb4-244db66e6774"
-type = "3cc3fe06-4e80-4d64-8794-f82ce6655857"
-properties = {
-"const": 0,
-"variable": 2
-}
-position = Vector2(2040, 2560)
-node_size = Vector2(0, 0)
-
-[sub_resource type="Resource" id="Resource_b0v5g"]
-script = ExtResource("5")
-id = "59b4ad51-eeed-4758-8e4a-a43832eb299a"
-type = "8d886b8c-cfba-40e8-bc9f-da10cfd08542"
-properties = {}
-position = Vector2(740, 3560)
-node_size = Vector2(0, 0)
-
-[sub_resource type="Resource" id="Resource_5mp6o"]
-script = ExtResource("5")
-id = "04fda23f-c8f4-4aef-88fa-6df89523c14e"
-type = "3cc3fe06-4e80-4d64-8794-f82ce6655857"
-properties = {
-"const": 1,
-"variable": 1
-}
-position = Vector2(1960, 3560)
-node_size = Vector2(0, 0)
-
-[sub_resource type="Resource" id="Resource_siosv"]
-script = ExtResource("5")
-id = "e85052f4-de39-42d0-a449-ab752c22e1b2"
-type = "9700ab27-9c03-4439-9aef-c7556a9f204e"
-properties = {
-"comparator": 0,
-"const_opb": 2
-}
-position = Vector2(1400, 3560)
-node_size = Vector2(0, 0)
-
-[sub_resource type="Resource" id="Resource_npfwc"]
-script = ExtResource("5")
-id = "361f6f4d-45ae-4dd8-b8c7-aebc45939665"
-type = "7b7dac05-cfcd-4b36-94de-7461bbda7e24"
-properties = {
-"mode": false
-}
-position = Vector2(1160, 3680)
-node_size = Vector2(0, 0)
-
-[sub_resource type="Resource" id="Resource_p5f3x"]
-script = ExtResource("5")
-id = "bec45aa1-5fd0-4499-9d0b-f2c486bf6f6b"
-type = "3fcab087-5e70-4d3f-8505-93631e535d51"
-properties = {
-"value": 2
-}
-position = Vector2(800, 3820)
 node_size = Vector2(0, 0)
 
 [sub_resource type="Resource" id="Resource_3b21b"]
@@ -1224,7 +1224,7 @@ timeline_anim_array = [{
 }
 }]
 current_animation = 0
-initial_animation = -1
+initial_animation = 0
 animation = 0
 current_frame = 0
 is_global = false
@@ -1269,7 +1269,7 @@ timeline_anim_array = [{
 }
 }]
 current_animation = 0
-initial_animation = -1
+initial_animation = 0
 animation = 0
 current_frame = 0
 is_global = false
@@ -1314,7 +1314,7 @@ timeline_anim_array = [{
 }
 }]
 current_animation = 0
-initial_animation = -1
+initial_animation = 0
 animation = 0
 current_frame = 0
 is_global = false
@@ -1508,32 +1508,6 @@ paper_colour = -1
 ignore_ink_colour = true
 ignore_paper_colour = true
 
-[sub_resource type="Resource" id="Resource_ll56n"]
-script = ExtResource("16")
-instrument_name = "tiletypelabel"
-grid_position = Vector2i(32, 184)
-grid_size = Vector2i(8, 8)
-type = 1
-value = 0
-properties = {}
-ink_colour = -1
-paper_colour = -1
-ignore_ink_colour = true
-ignore_paper_colour = true
-
-[sub_resource type="Resource" id="Resource_ebaan"]
-script = ExtResource("16")
-instrument_name = "tiletypevalue"
-grid_position = Vector2i(40, 184)
-grid_size = Vector2i(16, 8)
-type = 0
-value = 0
-properties = {}
-ink_colour = -1
-paper_colour = -1
-ignore_ink_colour = true
-ignore_paper_colour = true
-
 [sub_resource type="Resource" id="Resource_5kc7h"]
 script = ExtResource("16")
 instrument_name = "scorevalue"
@@ -1575,7 +1549,7 @@ script = ExtResource("15")
 screen_name = "Default"
 is_game_screen = true
 window_position = Vector2i(0, 0)
-instruments = Array[ExtResource("16")]([SubResource("Resource_d6i5h"), SubResource("Resource_ll56n"), SubResource("Resource_ebaan"), SubResource("Resource_5kc7h")])
+instruments = Array[ExtResource("16")]([SubResource("Resource_d6i5h"), SubResource("Resource_5kc7h")])
 screen_logic = SubResource("Resource_v7412")
 background_colour = -1
 ink_colour = -1
@@ -3487,7 +3461,7 @@ num_layers = 1
 sprite_width = 8
 sprite_height = 8
 num_pixels_per_sprite = 64
-sprite_data = [[Array[int]([1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0])], [Array[int]([1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])], [Array[int]([1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])], [Array[int]([1, 0, 1, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1])], [Array[int]([0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])], [Array[int]([0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0])], [Array[int]([0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])], [Array[int]([0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 1, 0, 1, 1, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0])], [Array[int]([0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 1, 0, 0, 1, 1, 1, 0, 0, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0])], [Array[int]([0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])], [Array[int]([1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])], [Array[int]([1, 0, 1, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1])], [Array[int]([0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0])], [Array[int]([1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1])], [Array[int]([0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0])], [Array[int]([1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1])], [Array[int]([0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])], [Array[int]([0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0])], [Array[int]([1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 1, 1, 1])], [Array[int]([1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1])], [Array[int]([1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1, 0, 1, 0, 0, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1])], [Array[int]([0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0])], [Array[int]([0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])], [Array[int]([0, 1, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 1, 1, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0])], [Array[int]([0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0])]]
+sprite_data = [[Array[int]([1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0])], [Array[int]([1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])], [Array[int]([1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])], [Array[int]([1, 0, 1, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1])], [Array[int]([0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])], [Array[int]([0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0])], [Array[int]([0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])], [Array[int]([0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 1, 0, 1, 1, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0])], [Array[int]([0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 1, 0, 0, 1, 1, 1, 0, 0, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0])], [Array[int]([0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])], [Array[int]([1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])], [Array[int]([1, 0, 1, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1])], [Array[int]([0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0])], [Array[int]([1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1])], [Array[int]([0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0])], [Array[int]([1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1])], [Array[int]([0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])], [Array[int]([0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0])], [Array[int]([1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 1, 1, 1])], [Array[int]([1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1])], [Array[int]([1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1, 0, 1, 0, 0, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1])], [Array[int]([0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0])], [Array[int]([0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])], [Array[int]([0, 1, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 1, 1, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0])], [Array[int]([0, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 1, 1])]]
 sprite_properties = Array[Dictionary]([{
 "bright": 2,
 "collision": 15
